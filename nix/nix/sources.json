@@ -40,5 +40,17 @@
         "repo": "https://gitlab.com/tezos/tezos",
         "rev": "6102c808a21b32e732ab9bb1825761cd056f3e86",
         "type": "git"
+    },
+    "serokell-nix": {
+        "branch": "master",
+        "description": "Serokell Nix infrastructure library",
+        "homepage": "",
+        "owner": "serokell",
+        "repo": "serokell.nix",
+        "rev": "276198e6504e660f559b7f1c24f0e03c4b8c435b",
+        "sha256": "a44c077717b4062c16e75c9876a29a349ea869510f5bfffa6eba49250284e86d",
+        "type": "tarball",
+        "url": "https://github.com/serokell/serokell.nix/archive/276198e6504e660f559b7f1c24f0e03c4b8c435b.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     }
 }
